@@ -1,0 +1,6 @@
+ios:
+1.ESTMusicPlayer - 开源ios音乐播放器：
+https://github.com/Aufree/ESTMusicPlayer
+
+2.DOUAudioStreamer - 由豆瓣开源的 iOS/Mac 流媒体播放引擎:
+https://github.com/douban/DOUAudioStreamer
