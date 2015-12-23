@@ -4,3 +4,6 @@ https://github.com/Aufree/ESTMusicPlayer
 
 2.DOUAudioStreamer - 由豆瓣开源的 iOS/Mac 流媒体播放引擎:
 https://github.com/douban/DOUAudioStreamer
+
+3.Coding-iPad - Coding iPad 客户端源代码
+https://github.com/Coding/Coding-iPad
